@@ -50,6 +50,8 @@ plt.xlabel('Predicted probability of acceptance')
 plt.ylabel('Accepted (1) or not (0)')
 plt.show()
 
+print Hello
+
 
 
 
